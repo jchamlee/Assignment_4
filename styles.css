@@ -1,0 +1,65 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color: cyan;
+	font-size: 62.5%;
+}
+
+header,
+main,
+footer {
+	background-color: darkolivegreen;
+	font-size: 1.6em;
+}
+
+header {
+	padding: 1.875em 0;
+}
+
+header h1 {
+	text-align: center;
+}
+
+h1, h2 {
+	margin: 0;
+}
+
+h1 {
+	font-size: 2.5em;
+}
+
+section {
+	margin: 1.875em 0;
+}
+
+p {
+	padding: 1.25em;
+	color: whitesmoke
+}
+
+.paragraph {
+	padding: 1.25em;
+	color: whitesmoke
+}
+
+#para {
+	padding: 1.25em;
+	color: whitesmoke
+}
+
+figure {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+	padding: 3em;
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
+}
